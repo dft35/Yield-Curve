@@ -15,7 +15,7 @@ import matplotlib.animation as animation
 from IPython.display import HTML
 from fredapi import Fred
 
-API_KEY = 'e323ebaf0a79c83f0e521be216faf6eb'
+API_KEY = 'oops you need to put your own lol'
 fred = Fred(api_key=API_KEY)
 
 series_ids = {
